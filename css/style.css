@@ -1,0 +1,27 @@
+body{background:white;margin:0;padding:0}
+.player{width:80%;
+        margin:0 auto;
+		}
+iframe{height:80%;}
+.domain{width:80%;
+        margin:0 auto;}
+.logotext{font-size:20px;}
+
+.tj{width:80%;margin:0 auto;margin-bottom:1%;}
+
+.seach{width:80%;
+       margin:0 auto;}
+#so{width:30%;margin-right:1%;margin-bottom:1%}
+
+@media screen and (max-width:768px){
+    body{margin:1%}
+	.domain{width:100%;
+        margin:0 auto;}
+	.player{width:100%;
+        margin:0 auto;
+		}
+    .seach{width:100%}
+	#so{width:100%;}
+	.tj{width:100%}
+    iframe{height:50%;}
+}
